@@ -1,0 +1,2 @@
+# SDE
+Sensible Desktop Environment
