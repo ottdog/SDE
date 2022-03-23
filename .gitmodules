@@ -1,3 +1,3 @@
 [submodule "dwm"]
 	path = dwm
-	url = https://github.com/alfxs/dwm
+	url = https://github.com/alfxs/dwm.git
