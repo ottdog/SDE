@@ -3,4 +3,4 @@
 	url = https://github.com/alfxs/dwm.git
 [submodule "st"]
 	path = st
-	url = git://git.suckless.org/st
+	url = https://github.com/alfxs/st.git
