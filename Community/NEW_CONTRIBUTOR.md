@@ -8,7 +8,7 @@ Do *you* want to help make a fast, resource efficient, and friendly Linux deskto
 - Suggesting bug fixes
 - Propsing new features
 - Contribuitng code
-- Fixing doccumentation
+- Fixing documentation
 
 ## Contributing Code/Documentation
 
