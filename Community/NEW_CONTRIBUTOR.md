@@ -28,15 +28,15 @@ then feel free. Just remember to include the copyright and license notice for ou
 
 ## Reporting Bugs
 
-Our issue tracker is located right here in GitHub. To make sure your bug reports are as useful to us as possible, please
+Our issue tracker is located right here on GitHub. To make sure your bug reports are as useful to us as possible, please
 follow the guidelines below.
 
 - Include a detailed description of the issue
 - Include what context the issue is occuring in (include replication steps if possible)
-- Include any error messages you recieved
+- Include any error messages you received
 - Tag the bug appropriately
 
 ## Suggesting Features
 
 Using the issue tracker, describe your feature and how you think it fits the project. Please include as much detail
-as possible, including implementaiton suggestions if you have any. 
+as possible, including implementation suggestions if you have any. 
